@@ -2,9 +2,9 @@
 <h3 align="center">CS undergrad who breaks things on purpose (it's called security research 😌)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/S-Mitanshu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/S-Mitanshu"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="https://www.codechef.com/users/S-Mitanshu"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mitanshu-shingala-088b01345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Mitanshu111"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/mitanshu_05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://leetcode.com/u/Mitanshu111/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
@@ -43,15 +43,15 @@ I'm a Computer Science undergrad at **IIIT Pune**, currently pursuing an **Honor
 <tr>
 <td width="50%">
 
-**🔐 CloudKeySync**
+**🔐 [CloudKeySync](https://github.com/S-Mitanshu/CloudKeySync)**
 SBIBD-based secure group key agreement protocol for multi-user cloud file sharing. Two-round key generation, TPA-based issuance, session auth — deployed on AWS EC2 with Flask + Gunicorn.
 `Python` `Cryptography` `SHA-256` `AWS EC2`
 
 </td>
 <td width="50%">
 
-**🛡️ WEB-RAKSHAK**
-A Transformer-based Web Application Firewall that catches what rule-based filters miss. **94.17% accuracy**, **98.26% recall** on SQLi, XSS, DDoS & phishing detection. Dockerized, with live monitoring.
+**🛡️ [WEB-RAKSHAK](https://github.com/S-Mitanshu/Transformer-based-Web-Application-Firewall-WAF)**
+A Transformer-based Web Application Firewall that catches what rule-based filters miss. **94.17% accuracy**, **98.26% recall** on SQLi, XSS, DDoS & phishing detection. Dockerized, with live monitoring. Built as a college group project (SpearHead team).
 `FastAPI` `PyTorch` `React` `Docker`
 
 </td>
@@ -59,7 +59,7 @@ A Transformer-based Web Application Firewall that catches what rule-based filter
 <tr>
 <td width="50%">
 
-**🗺️ CampusNavi**
+**🗺️ [CampusNavi](https://github.com/S-Mitanshu/CampusNavi)**
 Smart campus navigation using Dijkstra & A* for optimal routing — because nobody should get lost looking for their exam hall.
 `Java` `Graph Algorithms` `OOP`
 
@@ -88,18 +88,18 @@ Arcade Novice Tier — a pile of hands-on cloud labs and skill badges that taugh
 
 ### 📊 The Stats Corner
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=S-Mitanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Mitanshu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Mitanshu&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=S-Mitanshu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
@@ -120,9 +120,9 @@ Arcade Novice Tier — a pile of hands-on cloud labs and skill badges that taugh
 Not putting my email on the public internet for obvious reasons (my inbox has suffered enough), but you'll find me on:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/S-Mitanshu"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://codeforces.com/profile/S-Mitanshu"><img src="https://img.shields.io/badge/-Rated_Rounds-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
-  <a href="https://www.codechef.com/users/S-Mitanshu"><img src="https://img.shields.io/badge/-3★_Coder-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mitanshu-shingala-088b01345/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://codeforces.com/profile/Mitanshu111"><img src="https://img.shields.io/badge/-Rated_Rounds-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/mitanshu_05"><img src="https://img.shields.io/badge/-3★_Coder-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
   <a href="https://leetcode.com/u/Mitanshu111/"><img src="https://img.shields.io/badge/-Grinding_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
 </p>
 
