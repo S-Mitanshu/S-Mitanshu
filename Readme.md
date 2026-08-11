@@ -33,7 +33,7 @@ me = Mitanshu()
 print(me.say_hi())
 ```
 
-I'm a Computer Science undergrad at **IIIT Pune**, currently pursuing an **Honors in Cybersecurity**. I like taking systems apart to understand how they break — and then building things that don't. Somewhere between competitive programming contests and cloud deployments, I ended up genuinely enjoying both the attack side and the defense side of security.
+I'm a Computer Science undergrad at **IIIT Pune**, currently pursuing an **B.Tech. in Computer Science and Engineering with Honors in Cybersecurity**. I like taking systems apart to understand how they break — and then building things that don't. Somewhere between competitive programming contests and cloud deployments, I ended up genuinely enjoying both the attack side and the defense side of security.
 
 ---
 
